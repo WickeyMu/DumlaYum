@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DumlaYum
+- 👋 Hi, I’m @WickeyMu
 - 👀 I’m interested in coding and Adobe projects
 - 🌱 I’m currently learning Python coding and Premier Pro
 - 💞️ I’m looking to collaborate on 
